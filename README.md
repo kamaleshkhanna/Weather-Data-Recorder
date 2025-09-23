@@ -69,6 +69,6 @@ This project demonstrates the core idea of recommender systems using basic colla
 
 ##  Author
 
-**Madhavan V**  
+**T Kamalesh Khanna**  
 Intern at YBI Foundation  
 GitHub: [@kamaleshkhanna](https://github.com/kamalesh3)
