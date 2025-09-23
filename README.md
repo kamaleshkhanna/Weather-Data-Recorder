@@ -43,13 +43,13 @@ To recommend products to users based on their purchase behavior using **User-Bas
 Below are the heatmaps and similarity matrices generated:
 
 ### User × Product Heatmap
-![User-Item Matrix](assets/user_item_heatmap.png)
+![User-Item Matrix](assets./user_item_heatmap.png)
 
 ### User-Similarity Matrix
-![User Similarity Matrix](assets/user_similarity_heatmap.png)
+![User Similarity Matrix](assets./user_similarity_heatmap.png)
 
 ### Item-Similarity Matrix
-![Item Similarity Matrix](assets/item_similarity_heatmap.png)
+![Item Similarity Matrix](assets./item_similarity_heatmap.png)
 
 ---
 
