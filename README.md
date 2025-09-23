@@ -71,4 +71,4 @@ This project demonstrates the core idea of recommender systems using basic colla
 
 **T Kamalesh Khanna**  
 Intern at YBI Foundation  
-GitHub:[@kamaleshkhanna][(https://github.com/kamaleshkhanna/E-commerce-Recommender-system/blob/main/README.md)]
+GitHub:[kamaleshkhanna][(https://github.com/kamaleshkhanna/E-commerce-Recommender-system)]
